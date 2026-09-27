@@ -2,7 +2,7 @@
 
 ### Analista de Automação de Processos & Qualidade
 
-Profissional com sólida base em processos operacionais e controle de qualidade, atualmente focado na transformação e otimização de fluxos de trabalho por meio da tecnologia e automação. Sou apaixonado por mapear gargalos, criar rotinas eficientes e gerar valor conectando sistemas.
+Profissional com sólida base em processos operacionais e controle de qualidade, atualmente focado na transformação e otimização de fluxos de trabalho por meio da tecnologia e automação. Gosto de mapear problemas, criar rotinas eficientes e gerar valor conectando sistemas.
 
 - ⚙️ **Foco de atuação:** Mapeamento de processos, automação de fluxos, integração de sistemas e testes de qualidade.
 - 🚀 **O que estou construindo:** Workflows automatizados integrando serviços corporativos e IA Generativa.
