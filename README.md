@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Geovane Mello Gonzatto! 👋
 
-<!--
-**GeovaneBoss/GeovaneBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Automação de Processos & Qualidade
 
-Here are some ideas to get you started:
+Profissional com sólida base em processos operacionais e controle de qualidade, atualmente focado na transformação e otimização de fluxos de trabalho por meio da tecnologia e automação. Sou apaixonado por mapear gargalos, criar rotinas eficientes e gerar valor conectando sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ **Foco de atuação:** Mapeamento de processos, automação de fluxos, integração de sistemas e testes de qualidade.
+- 🚀 **O que estou construindo:** Workflows automatizados integrando serviços corporativos e IA Generativa.
+- 🎓 **Formação:** Administração de Empresas (em andamento) | Capacitações em Automação e IA pela DIO e Santander.
+
+---
+
+### 🛠️ Minha Stack de Tecnologias e Ferramentas
+
+- **Automação & Workflows:** n8n
+- **Integração:** APIs REST, Webhooks, Evolution API
+- **Banco de Dados & Infraestrutura:** PostgreSQL, Docker
+- **Linguagens & IA:** Lógica de Programação, Java (Básico), Inteligência Artificial Generativa (LLMs)
+
+---
+
+### 📫 Como me encontrar:
+
+- **LinkedIn:** [linkedin.com/in/geovanemellog](https://www.linkedin.com/in/geovanemellog)
+- **E-mail:** geovane.gonzatto@gmail.com
